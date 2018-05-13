@@ -1,0 +1,28 @@
+{
+  "name": "gm-loader",
+  "version": "1.0.0",
+  "description": "Google Maps ES6 Loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlbalagtey/googleMapsLoader.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "es6",
+    "loader"
+  ],
+  "author": "Karl Mark Balagtey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlbalagtey/googleMapsLoader/issues"
+  },
+  "homepage": "https://github.com/karlbalagtey/googleMapsLoader#readme",
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}
