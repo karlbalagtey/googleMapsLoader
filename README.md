@@ -32,7 +32,7 @@ new GoogleMapsLoader({
 
 To add location, add latitude and longitude dataset to map container
 ```
-<div class="map-container" data-lat="125.25251" data-lon="235.235235"></div>
+<div class="map-container" data-lat="125.25251" data-lng="235.235235" data-title="Map Title"></div>
 ```
 
 
