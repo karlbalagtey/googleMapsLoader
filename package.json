@@ -1,7 +1,7 @@
 {
-  "name": "gm-loader",
+  "name": "googlemaps-loader",
   "version": "1.0.0",
-  "description": "Google Maps ES6 Loader",
+  "description": "Google Maps API ES6 Loader",
   "main": "mapLoader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
