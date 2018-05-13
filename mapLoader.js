@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import GoogleMapsLoader from './googleMapsLoader';
+import GoogleMapsLoader from './modules/googleMapsLoader';
 
 class MapLoader {
 	constructor(els) {
