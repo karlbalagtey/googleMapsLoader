@@ -1,4 +1,3 @@
-import $ from 'jquery';
 import GoogleMapsLoader from './modules/googleMapsLoader';
 
 class MapLoader {
